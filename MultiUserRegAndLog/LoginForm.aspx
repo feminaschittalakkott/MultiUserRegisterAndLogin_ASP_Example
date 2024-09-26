@@ -96,7 +96,7 @@
                 <td class="auto-style5">&nbsp;</td>
                 <td class="auto-style4">&nbsp;</td>
                 <td class="auto-style3">
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Login" />
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Login" BackColor="#FFCC00" />
                 </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
